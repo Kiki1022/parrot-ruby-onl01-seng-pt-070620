@@ -9,4 +9,4 @@ def parrot(greeting = "Squawk!")
   
 end
 
-parrot
+parrot()
