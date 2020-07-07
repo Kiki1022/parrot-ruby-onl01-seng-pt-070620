@@ -7,4 +7,4 @@ def parrot(greeting = "Squawk!")
   ${greeting}
 end
 
-parrot()
+parrot("Pretty bird!")
